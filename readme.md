@@ -1,7 +1,8 @@
-## Tech
+# Bit-Bomber 
 
 ![Getting Started](./screenshot/sc-001.png)
 
+## Tech
 - [typescript] - Phaser - HTML5 Game Framework
 
 ## Installation
